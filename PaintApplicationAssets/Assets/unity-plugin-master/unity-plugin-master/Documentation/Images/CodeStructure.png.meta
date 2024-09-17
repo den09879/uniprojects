@@ -1,0 +1,2965 @@
+fileFormatVersion: 2
+guid: 0729a46058d080a4f8b2ab01987ae47f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3392400246454997750
+    second: CodeStructure_0
+  - first:
+      213: 8287431519609474305
+    second: CodeStructure_1
+  - first:
+      213: -3997892169538979270
+    second: CodeStructure_2
+  - first:
+      213: 7156526292300205513
+    second: CodeStructure_3
+  - first:
+      213: 424537210048068918
+    second: CodeStructure_4
+  - first:
+      213: -305641568588931706
+    second: CodeStructure_5
+  - first:
+      213: -643950464795276615
+    second: CodeStructure_6
+  - first:
+      213: 266627900965983181
+    second: CodeStructure_7
+  - first:
+      213: -1228784583970967905
+    second: CodeStructure_8
+  - first:
+      213: 28647719287082327
+    second: CodeStructure_9
+  - first:
+      213: -134946526934144312
+    second: CodeStructure_10
+  - first:
+      213: -1279313365577050057
+    second: CodeStructure_11
+  - first:
+      213: -4716660413222596346
+    second: CodeStructure_12
+  - first:
+      213: 3329873778660459375
+    second: CodeStructure_13
+  - first:
+      213: 335792104607185058
+    second: CodeStructure_14
+  - first:
+      213: -5755480112653904088
+    second: CodeStructure_15
+  - first:
+      213: 4743408632929150350
+    second: CodeStructure_16
+  - first:
+      213: 5390400666841174182
+    second: CodeStructure_17
+  - first:
+      213: -5388219694849964013
+    second: CodeStructure_18
+  - first:
+      213: -849387250131060640
+    second: CodeStructure_19
+  - first:
+      213: 1284424583718702119
+    second: CodeStructure_20
+  - first:
+      213: -5652819877093055445
+    second: CodeStructure_21
+  - first:
+      213: 2958086931632439825
+    second: CodeStructure_22
+  - first:
+      213: 5765697701437060339
+    second: CodeStructure_23
+  - first:
+      213: -2059933028018951567
+    second: CodeStructure_24
+  - first:
+      213: -2867409514872104363
+    second: CodeStructure_25
+  - first:
+      213: -7290450179549769280
+    second: CodeStructure_26
+  - first:
+      213: 9091279693779918880
+    second: CodeStructure_27
+  - first:
+      213: 485677313977020114
+    second: CodeStructure_28
+  - first:
+      213: -6795213724588499334
+    second: CodeStructure_29
+  - first:
+      213: 5084665719235294595
+    second: CodeStructure_30
+  - first:
+      213: 7731799591596904782
+    second: CodeStructure_31
+  - first:
+      213: -7830678069020110536
+    second: CodeStructure_32
+  - first:
+      213: 5736874910919702809
+    second: CodeStructure_33
+  - first:
+      213: 4286496684070518982
+    second: CodeStructure_34
+  - first:
+      213: 8270780731557634063
+    second: CodeStructure_35
+  - first:
+      213: -1192289288667252052
+    second: CodeStructure_36
+  - first:
+      213: -2617384518403100191
+    second: CodeStructure_37
+  - first:
+      213: 6149784388299157267
+    second: CodeStructure_38
+  - first:
+      213: 5516176139586892444
+    second: CodeStructure_39
+  - first:
+      213: 3563552527750842487
+    second: CodeStructure_40
+  - first:
+      213: -7527678180910501636
+    second: CodeStructure_41
+  - first:
+      213: 2135240592269394891
+    second: CodeStructure_42
+  - first:
+      213: -484473561766246529
+    second: CodeStructure_43
+  - first:
+      213: 328410415287823037
+    second: CodeStructure_44
+  - first:
+      213: -1705611390367589073
+    second: CodeStructure_45
+  - first:
+      213: -4523683277127689769
+    second: CodeStructure_46
+  - first:
+      213: 2304943971518669081
+    second: CodeStructure_47
+  - first:
+      213: 5885576411842902380
+    second: CodeStructure_48
+  - first:
+      213: 9173568777788108613
+    second: CodeStructure_49
+  - first:
+      213: -419673916991219601
+    second: CodeStructure_50
+  - first:
+      213: 4604784696028443608
+    second: CodeStructure_51
+  - first:
+      213: 4027633582317846815
+    second: CodeStructure_52
+  - first:
+      213: 3881666139098363402
+    second: CodeStructure_53
+  - first:
+      213: 4257839365000649537
+    second: CodeStructure_54
+  - first:
+      213: 4011441340727392350
+    second: CodeStructure_55
+  - first:
+      213: -2443667641935595992
+    second: CodeStructure_56
+  - first:
+      213: -8091503415991619389
+    second: CodeStructure_57
+  - first:
+      213: 4040866033759782170
+    second: CodeStructure_58
+  - first:
+      213: -2657855795358350022
+    second: CodeStructure_59
+  - first:
+      213: 8163518441945163921
+    second: CodeStructure_60
+  - first:
+      213: -5507262427769917755
+    second: CodeStructure_61
+  - first:
+      213: -6093476377370537133
+    second: CodeStructure_62
+  - first:
+      213: 6399423426167711056
+    second: CodeStructure_63
+  - first:
+      213: -5982458406486961293
+    second: CodeStructure_64
+  - first:
+      213: 154733005173626960
+    second: CodeStructure_65
+  - first:
+      213: 9003476020823414174
+    second: CodeStructure_66
+  - first:
+      213: -1637190376626757810
+    second: CodeStructure_67
+  - first:
+      213: 2936234109448582017
+    second: CodeStructure_68
+  - first:
+      213: 3272605823382603949
+    second: CodeStructure_69
+  - first:
+      213: -6119067222781033730
+    second: CodeStructure_70
+  - first:
+      213: 692907263925901192
+    second: CodeStructure_71
+  - first:
+      213: 2882375097396067258
+    second: CodeStructure_72
+  - first:
+      213: 5180990296874172841
+    second: CodeStructure_73
+  - first:
+      213: -6705563971895607360
+    second: CodeStructure_74
+  - first:
+      213: 1818072494487127908
+    second: CodeStructure_75
+  - first:
+      213: 4454363615136510005
+    second: CodeStructure_76
+  - first:
+      213: -1309331719759019970
+    second: CodeStructure_77
+  - first:
+      213: 2825317595876179360
+    second: CodeStructure_78
+  - first:
+      213: -8332563932010010898
+    second: CodeStructure_79
+  - first:
+      213: -6689551015853782597
+    second: CodeStructure_80
+  - first:
+      213: -7692389154012582869
+    second: CodeStructure_81
+  - first:
+      213: 4089192067893164639
+    second: CodeStructure_82
+  - first:
+      213: 7299201780611899845
+    second: CodeStructure_83
+  - first:
+      213: -5131235789440777614
+    second: CodeStructure_84
+  - first:
+      213: -6936099830678908301
+    second: CodeStructure_85
+  - first:
+      213: 3764634837122473445
+    second: CodeStructure_86
+  - first:
+      213: -1956673958381285130
+    second: CodeStructure_87
+  - first:
+      213: -8386500023876802088
+    second: CodeStructure_88
+  - first:
+      213: 3677129334698133671
+    second: CodeStructure_89
+  - first:
+      213: -2972765279460223514
+    second: CodeStructure_90
+  - first:
+      213: -647620181746034451
+    second: CodeStructure_91
+  - first:
+      213: -3693874691107278717
+    second: CodeStructure_92
+  - first:
+      213: -2081200569879462660
+    second: CodeStructure_93
+  - first:
+      213: 2060712193187823448
+    second: CodeStructure_94
+  - first:
+      213: -6404328228555879784
+    second: CodeStructure_95
+  - first:
+      213: -127169369837691512
+    second: CodeStructure_96
+  - first:
+      213: -1006007029360261610
+    second: CodeStructure_97
+  - first:
+      213: 7128240876251166098
+    second: CodeStructure_98
+  - first:
+      213: -4217168315024949206
+    second: CodeStructure_99
+  - first:
+      213: 4374310347846033371
+    second: CodeStructure_100
+  - first:
+      213: -1762720794490714222
+    second: CodeStructure_101
+  - first:
+      213: 4823665456700557774
+    second: CodeStructure_102
+  - first:
+      213: 6239643673138378806
+    second: CodeStructure_103
+  - first:
+      213: -6727181621204786899
+    second: CodeStructure_104
+  - first:
+      213: -4187543018655528290
+    second: CodeStructure_105
+  - first:
+      213: 4858052398625266684
+    second: CodeStructure_106
+  - first:
+      213: 3318327117728461286
+    second: CodeStructure_107
+  - first:
+      213: -8121596418871822653
+    second: CodeStructure_108
+  - first:
+      213: -5660016367220746831
+    second: CodeStructure_109
+  - first:
+      213: -7267013195468130823
+    second: CodeStructure_110
+  - first:
+      213: 2301397400688461300
+    second: CodeStructure_111
+  - first:
+      213: -8604951289932499374
+    second: CodeStructure_112
+  - first:
+      213: -5576236249277076256
+    second: CodeStructure_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CodeStructure_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 876
+        width: 11
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2a1613f5cbe0d0800000000000000
+      internalID: -3392400246454997750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 1876
+        height: 1655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dc2b2fe0fd20370800000000000000
+      internalID: 8287431519609474305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1348
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3058e042a488c0800000000000000
+      internalID: -3997892169538979270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_3
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1343
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd0c46feb6115360800000000000000
+      internalID: 7156526292300205513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_4
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1314
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db9ded75244e500800000000000000
+      internalID: 424537210048068918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_5
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1284
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd9abdc9422cbf0800000000000000
+      internalID: -305641568588931706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_6
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1255
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba0eecc67a3017f0800000000000000
+      internalID: -643950464795276615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_7
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1226
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3194cc9a043b300800000000000000
+      internalID: 266627900965983181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_8
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1197
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2fe66eea72fee0800000000000000
+      internalID: -1228784583970967905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_9
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1168
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4bbbe2f6c56000800000000000000
+      internalID: 28647719287082327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_10
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1139
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caea6649d2902ef0800000000000000
+      internalID: -134946526934144312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_11
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1109
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738de58a547fe3ee0800000000000000
+      internalID: -1279313365577050057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_12
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1080
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60158b7185e0b8eb0800000000000000
+      internalID: -4716660413222596346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_13
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1051
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c1fb2f86163e20800000000000000
+      internalID: 3329873778660459375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_14
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1022
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fd79d329f8a400800000000000000
+      internalID: 335792104607185058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_15
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 993
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8275075d45d6020b0800000000000000
+      internalID: -5755480112653904088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_16
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 964
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85634e1509f3d140800000000000000
+      internalID: 4743408632929150350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_17
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 934
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d810d8dc8eca40800000000000000
+      internalID: 5390400666841174182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_18
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 905
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31844bc4cb23935b0800000000000000
+      internalID: -5388219694849964013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_19
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 876
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683137dbce5634f0800000000000000
+      internalID: -849387250131060640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 823
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c055d8a5133d110800000000000000
+      internalID: 1284424583718702119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_21
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 847
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e99e85462d81b0800000000000000
+      internalID: -5652819877093055445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 823
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124da6446c3d0920800000000000000
+      internalID: 2958086931632439825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_23
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 823
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43170f28fd30050800000000000000
+      internalID: 5765697701437060339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 11
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae5d333d5a963e0800000000000000
+      internalID: -2059933028018951567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_25
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 780
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a19780d3ae438d0800000000000000
+      internalID: -2867409514872104363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_26
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 750
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d04b203e13da90800000000000000
+      internalID: -7290450179549769280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_27
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 721
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020697db6b6ba2e70800000000000000
+      internalID: 9091279693779918880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_28
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 691
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee01f91f87db600800000000000000
+      internalID: 485677313977020114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_29
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 661
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1b0dbe1d82b1a0800000000000000
+      internalID: -6795213724588499334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_30
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 632
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38530ac288c509640800000000000000
+      internalID: 5084665719235294595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 602
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d4a383cedc4b60800000000000000
+      internalID: 7731799591596904782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_32
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 572
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315d91f8c7d35390800000000000000
+      internalID: -7830678069020110536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_33
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 543
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919383216597d9f40800000000000000
+      internalID: 5736874910919702809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_34
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 513
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c9e8f502bc7b30800000000000000
+      internalID: 4286496684070518982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_35
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 483
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0063af3147b7c270800000000000000
+      internalID: 8270780731557634063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_36
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 454
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3c7f7533247fe0800000000000000
+      internalID: -1192289288667252052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_37
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 424
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f9f3e5ae2dabd0800000000000000
+      internalID: -2617384518403100191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_38
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 394
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f60d5715c685550800000000000000
+      internalID: 6149784388299157267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_39
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 364
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ff8619f46d8c40800000000000000
+      internalID: 5516176139586892444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_40
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 335
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c80bb428447130800000000000000
+      internalID: 3563552527750842487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_41
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 305
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0fe5be390588790800000000000000
+      internalID: -7527678180910501636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_42
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 275
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc346347106e1ad10800000000000000
+      internalID: 2135240592269394891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_43
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 246
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cad7ccddc649f0800000000000000
+      internalID: -484473561766246529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_44
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 216
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbae4cf588fbe8400800000000000000
+      internalID: 328410415287823037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_45
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 186
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d97482a737458e0800000000000000
+      internalID: -1705611390367589073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_46
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 157
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9dd66e606a831c0800000000000000
+      internalID: -4523683277127689769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_47
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 127
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116c89745eccff10800000000000000
+      internalID: 2304943971518669081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69705e3094cda150800000000000000
+      internalID: 5885576411842902380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_49
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 97
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54faca223301f4f70800000000000000
+      internalID: 9173568777788108613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68dd38cbc40d2af0800000000000000
+      internalID: -419673916991219601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33ee9a84b77ef30800000000000000
+      internalID: 4604784696028443608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f114d7f576705e730800000000000000
+      internalID: 4027633582317846815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06be9d99c27ed530800000000000000
+      internalID: 3881666139098363402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd98de752e61b30800000000000000
+      internalID: 4257839365000649537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e587f5755a08ba730800000000000000
+      internalID: 4011441340727392350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ff4d0a39561ed0800000000000000
+      internalID: -2443667641935595992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b5f6838435bf80800000000000000
+      internalID: -8091503415991619389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15813f8f3a041830800000000000000
+      internalID: 4040866033759782170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c37d6c366d1bd0800000000000000
+      internalID: -2657855795358350022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ed7155c4aa4170800000000000000
+      internalID: 8163518441945163921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce2beb20064293b0800000000000000
+      internalID: -5507262427769917755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3535897f48f9f6ba0800000000000000
+      internalID: -6093476377370537133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_63
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0552a0453b15fc850800000000000000
+      internalID: 6399423426167711056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739bc596c90afca0800000000000000
+      internalID: -5982458406486961293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058176039d8b52200800000000000000
+      internalID: 154733005173626960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_66
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955dec0db5c2fc70800000000000000
+      internalID: 9003476020823414174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_67
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5973d6088749e0800000000000000
+      internalID: -1637190376626757810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_68
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183711f9d599fb820800000000000000
+      internalID: 2936234109448582017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_69
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8489848a1aa6d20800000000000000
+      internalID: 3272605823382603949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_70
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef28665f7c4b41ba0800000000000000
+      internalID: -6119067222781033730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_71
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88757904c73bd9900800000000000000
+      internalID: 692907263925901192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_72
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb79bd21e0400820800000000000000
+      internalID: 2882375097396067258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_73
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a14ee5993396e740800000000000000
+      internalID: 5180990296874172841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_74
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf318c581d01f2a0800000000000000
+      internalID: -6705563971895607360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_75
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46740d91d471b3910800000000000000
+      internalID: 1818072494487127908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_76
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f2a49b1411dd30800000000000000
+      internalID: 4454363615136510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_77
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30cc9eecb154dde0800000000000000
+      internalID: -1309331719759019970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_78
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad3cdf526b853720800000000000000
+      internalID: 2825317595876179360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_79
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6af4c6049cc5c80800000000000000
+      internalID: -8332563932010010898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_80
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb98e293bc0f923a0800000000000000
+      internalID: -6689551015853782597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_81
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c230902d42f3590800000000000000
+      internalID: -7692389154012582869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_82
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5afd11358abfb830800000000000000
+      internalID: 4089192067893164639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_83
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1654db859fb4560800000000000000
+      internalID: 7299201780611899845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_84
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728c976c303ac8b0800000000000000
+      internalID: -5131235789440777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_85
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729cb9f3f50ebf90800000000000000
+      internalID: -6936099830678908301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_86
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eddebf307bae3430800000000000000
+      internalID: 3764634837122473445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_87
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f01d69d66f78d4e0800000000000000
+      internalID: -1956673958381285130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_88
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a40079aa2d9b80800000000000000
+      internalID: -8386500023876802088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_89
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c9dbc5a9c70330800000000000000
+      internalID: 3677129334698133671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_90
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5982d8abd9eb6d0800000000000000
+      internalID: -2972765279460223514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_91
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de857ad30e03307f0800000000000000
+      internalID: -647620181746034451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_92
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380beb71a88bcbcc0800000000000000
+      internalID: -3693874691107278717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_93
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7efdbb171e13e0800000000000000
+      internalID: -2081200569879462660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_94
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb64352de199c10800000000000000
+      internalID: 2060712193187823448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_95
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a8bef58614f17a0800000000000000
+      internalID: -6404328228555879784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_96
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d9384c1243c3ef0800000000000000
+      internalID: -127169369837691512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_97
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6168f65dfe1f902f0800000000000000
+      internalID: -1006007029360261610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_98
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295be565f499ce260800000000000000
+      internalID: 7128240876251166098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_99
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20c7e0d2cb9975c0800000000000000
+      internalID: -4217168315024949206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_100
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9da4d51ca4bc30800000000000000
+      internalID: 4374310347846033371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_101
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cf26d6ce8987e0800000000000000
+      internalID: -1762720794490714222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_102
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec985fd0d2a11f240800000000000000
+      internalID: 4823665456700557774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_103
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383d669cdaa79650800000000000000
+      internalID: 6239643673138378806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_104
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d216d8825ff34a2a0800000000000000
+      internalID: -6727181621204786899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_105
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ace53afcbd2e5c0800000000000000
+      internalID: -4187543018655528290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_106
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1b40eae44b6340800000000000000
+      internalID: 4858052398625266684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_107
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e130ccaee01d0e20800000000000000
+      internalID: 3318327117728461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_108
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c67f0c461b4a4f80800000000000000
+      internalID: -8121596418871822653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_109
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b519e02a159371b0800000000000000
+      internalID: -5660016367220746831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_110
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5bb024002662b90800000000000000
+      internalID: -7267013195468130823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_111
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50b0b1eb430ff10800000000000000
+      internalID: 2301397400688461300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_112
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b80e8462159880800000000000000
+      internalID: -8604951289932499374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CodeStructure_113
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 73
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecee2aecaa3d92b0800000000000000
+      internalID: -5576236249277076256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
